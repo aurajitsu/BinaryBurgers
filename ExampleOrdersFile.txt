@@ -1,0 +1,8 @@
+--------------Total of Order#1--------------
+Hamburger           $  2.75
+French Fries        $  2.25
+Small Coke          $  1.50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Subtotal:           $  6.50
+Sales Tax:          $  0.52
+Total:              $  7.02
