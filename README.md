@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @aurajitsu
-- 👀 I’m interested in ...video games, digital art, fun projects
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...message me!
+This project asks for an input of a number of orders. It then prompts for each order's selected food and drinks. Once completed orders are saved out into a text file as a 'receipt' of each order.
+
 
 <!---
 aurajitsu/aurajitsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
